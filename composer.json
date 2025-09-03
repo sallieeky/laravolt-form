@@ -16,7 +16,7 @@
         "php": ">=8.2",
         "illuminate/support": "^12.0",
         "nesbot/carbon": "^3.9",
-        "jenssegers/date": "^3.4",
+        "jenssegers/date": "^4.0",
         "myclabs/deep-copy": "^1.9"
     },
     "require-dev": {
